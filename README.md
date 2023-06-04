@@ -1,2 +1,2 @@
 # daily_journal
-Using NodeJs(ExpressJs) with Ejs and Lodash
+Using NodeJs(ExpressJs) with EJS and Lodash
